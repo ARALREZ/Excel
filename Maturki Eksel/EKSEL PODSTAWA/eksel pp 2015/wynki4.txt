@@ -1,0 +1,12 @@
+4_1)	Dama	Granta	Dorkas	Lodera
+	317	300	322	398
+
+4_2	Lodera
+	2 kwartał 2014
+	305
+
+4_3)	Dama	Granta	Dorkas	Lodera
+	18	9	17	32
+
+
+4_4)	29368

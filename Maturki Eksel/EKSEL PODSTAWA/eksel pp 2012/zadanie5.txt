@@ -1,0 +1,20 @@
+5_1)	PO 400 DNIACH
+A	221
+B	117
+C	198
+
+5_2)	min	max
+A	167	264
+B	62	210
+C	97	223
+
+
+5_4) 		
+ile na tak:	6	
+ostatni	302	dnia
+A	224	
+B	163	
+C	194	
+
+
+5_5)	14

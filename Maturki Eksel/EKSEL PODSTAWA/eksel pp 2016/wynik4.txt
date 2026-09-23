@@ -1,0 +1,31 @@
+4_1)	24
+
+4_2)	powiat	przyrost naturalny
+	bytowski	5,7
+	gdanski		6
+	kartuski	8,7
+	koscierski	7,2
+	limanowski	6,4
+	m Zory		5,7
+	nowosadecki	6,1
+	poznanski	6
+	pszczynski	5,5
+	wejherowski	7,2
+
+4_3)	mazowieckie	5222167
+	slaskie	4640725
+	wielkopolskie	3408281
+	malopolskie	3298270
+
+4_4) brzeski	opolskie	92188	10,8	9,7	-0,5	995
+glubczycki	opolskie	49422	9,3	11,7	-3,2	459
+kedzierzynsko-kozielski	opolskie	100320	8,1	10,2	-3,3	812
+kluczborski	opolskie	68801	8,6	9,5	-2,4	591
+krapkowicki	opolskie	66795	8,4	8,2	-1,4	561
+m Opole	opolskie	125792	9,4	8,7	-3,4	1182
+namyslowski	opolskie	43814	10,8	9,1	-2,7	473
+nyski	opolskie	143852	9,3	9,8	-2,1	1337
+oleski	opolskie	67194	8,7	9,6	-2,6	584
+opolski	opolskie	135010	8,1	8,4	2,9	1093
+prudnicki	opolskie	58732	9	11	-2,9	528
+strzelecki	opolskie	79177	8,3	8,7	-1,6	657
